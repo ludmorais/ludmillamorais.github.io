@@ -1,0 +1,23 @@
+.logo img{
+  background-color: #ddd;
+  border-radius: 50%;
+  height: 100px;
+  object-fit: cover;
+  width: 100px;  
+}
+
+.formContact{
+  width: 100%;
+  height: 100%;
+}
+
+.picture img{
+  border: 1px solid #efefef;
+  border-radius:12px;
+  display:auto ;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;;
+}
+
